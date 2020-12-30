@@ -1,0 +1,41 @@
+Proyecto Final de fundamentos de programación:
+Vamos a realizar un programa para registrar casos de epidemias en república dominicana.
+Su programa debe tener las siguientes opciones:
+1.       Casos.
+a.       Agregar
+b.       Editar
+c.       Eliminar
+2.       Estadísticas
+a.       Listado de casos por hospitales
+b.       Listado de casos por Epidemia
+c.       Listado de casos por Provincia
+d.       Listado de pacientes por mes de cumpleaños.
+e.       Exportar caso a HTML
+3.       Notificación
+Va a enviar a un grupo de telegram o por correo electrónico el listado de casos que existe por epidemia.
+4.       Configuración  (Aquí se va a editar cada uno de lo elementos Epidemias, Provincias y Hospitales)
+a.       Epidemias
+b.       Provincias
+c.       Hospitales
+5.       Salir
+Para registrar un caso debemos digitar la siguiente información:
+1.       Nombre
+2.       Apellido
+3.       Teléfono
+4.       Email
+5.       Fecha de nacimiento
+6.       Cedula (Si es mayor).
+7.       Hospital (se debe elegir de alguna manera de los hospitales registrados en al conf)
+8.       Provincia (igual que arriba)
+9.       Enfermedad (Igual que arriba)
+10.   Comentario
+
+
+Importante:
+·         Su programa debe dar una bienvenida con su voz al inicio de cada módulo, e ir indicando al usuario de manera hablada y escrita lo que debe hacer.
+·         Todo dato debe estar bien validado, Ejemplo si es un correo debe tener un formato valido.
+·         Su practica debe ser subida a micurso.org antes de la fecha de vencimiento.
+·         Debe hacer un video al final mostrando su practica funcionando, háblanos de que fue lo que mas te gusto y menos te agrado enseñando los codigos y demostrando que esta funciona (no mas de 10 minutos, mínimo 2 minutos). Debo entenderle. Si recibiste ayuda para hacer tu practica final, debes indicarlo al inicio del video resumen.          
+·         Luego de la fecha de entrega, el profesor te hará una entrevista personal por zoom, donde deberas mostrar tu practica corriendo en tu computadora y responder las preguntas que te sean realizadas. El profesor se reserva el derecho de usar diferentes técnicas para que demuestres el dominio de tu código y que realmente tu realizaste esta practica final.
+·         Si recibiste ayuda y no lo indicaste en el video resumen, perderás un 100% del valor de esta actividad.
+·         Si recibiste ayuda se te descontará un 10% del valor de esta actividad.

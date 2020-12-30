@@ -1,0 +1,19 @@
+Saludo profesor aqui le describo las cosas extra
+que hice en cada ejercicio.
+
+Ejercicio 1: Le añadi una foto dependido del genero.
+
+Ejercicio 2: Le añadi un efecto hover en el html chulisimo.
+
+Ejercicio 3: Mi HTML para el este ejercicio es una obra de 
+	     arte, va a flipar como dicen los españoles, xD.
+
+Ejercicio 4: En este ejercicio añadi un color de foto para el
+	     contanedor del resultado en html, que depende de
+ 	     si el estudiante aprovo o no. si saca A:Fondo verde,
+	     B: Azul,C: como naranja y F:Rojo.
+
+Ejercicio 5: Le añadi una animacion desde css al container del resultado.
+
+
+Espero que le haya gustado todo...	

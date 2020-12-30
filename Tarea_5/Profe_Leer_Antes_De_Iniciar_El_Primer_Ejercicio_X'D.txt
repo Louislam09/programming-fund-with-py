@@ -1,0 +1,7 @@
+Para el ejercicio uno,
+es necesario instalar un modulo llamado
+textblob.
+
+pip install textblob
+
+thanks for reading! Lol xD...
